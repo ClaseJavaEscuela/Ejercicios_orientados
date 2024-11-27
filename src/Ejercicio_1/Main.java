@@ -58,7 +58,7 @@ public class Main {
                 System.out.println("Opcion no valida");
             }
             opcion = 0;
-        } while (opcion != 5);
+        } while (opcion != 3);
 
         System.out.println("FIN DEL PROGRAMA ...");
 
